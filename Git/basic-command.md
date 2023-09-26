@@ -50,5 +50,3 @@ git config --global user.name <이름>
 
 
 
-
-
