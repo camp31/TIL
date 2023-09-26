@@ -1,4 +1,4 @@
-# BASIC COMMAND
+# Basic command
 > git 기본 문법 정리
 
 ## 초기 설정
